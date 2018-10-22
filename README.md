@@ -1,10 +1,12 @@
-C3 EOS Token Contracts
+# C3 EOS Token Contracts
 
-> The [C3](https://github.com/c3systems/c3-go) [EOS](https://github.com/EOSIO/eos) token smart contracts
+> [EOS](https://github.com/EOSIO/eos) token smart contracts for [C3](https://github.com/c3systems/c3-go)
 
 NOTE: this is a work-in progress.
 
 ## Tutorial
+
+This is a tutorial on how to run EOS node and launch the token contract
 
 ### Install EOS node
 
